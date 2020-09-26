@@ -1,4 +1,7 @@
-Due to potential legal problems from circumventing Spotify's content protection, I have closed this repository.
+# NOTICE
+Due to potential legal problems from circumventing Spotify's content protection, I have deleted the code in this repository.
+
+This README used to read:
 
 # spotrip
 This is an open source Spotify song ripping application written in Golang (using a modified version of [Librespot](http://github.com/librespot-org/librespot-golang)).  It works with both Spotify free and premium accounts.  It can download individual tracks, albums, or entire artist discographies.   It downloads the audio files served by Spotify's servers and does not work by recording audio outputs.
